@@ -1,0 +1,39 @@
+.flex-class {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.container-fluid{
+    background-color: #F4F5FA;
+}
+
+.carousel-inner img {
+    height: 500px;
+    object-fit: fill;
+}
+
+.progress{
+    width: 50%;
+}
+
+.progress-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.carousel-inner img{
+    height: 250px;
+
+}
+
+.carousal-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
